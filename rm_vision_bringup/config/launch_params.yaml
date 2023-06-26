@@ -1,0 +1,9 @@
+camera: mv
+
+odom2camera:
+  xyz: "\"0.15 0.0  0.03\""
+  rpy: "\"0.0  0.0  0.0\""
+
+detector_log_level: INFO
+tracker_log_level: DEBUG
+serial_log_level: DEBUG
